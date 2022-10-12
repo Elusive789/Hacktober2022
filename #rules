@@ -1,0 +1,5 @@
+Rules
+For PRs to be counted into your participation in Hacktoberfest, they must be merged between October 1st and October 31st.
+Contributions must be made to public repositories.
+If a PR has a label that contains the word spam in it, the PR will not be counted. Also, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.
+If a PR has a label that contains the word invalid, it will not be counted. The exception for this is if the PR also has the label hacktoberfest-accepted
